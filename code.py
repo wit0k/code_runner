@@ -1,0 +1,3 @@
+import cstruct
+
+print('Ok')
